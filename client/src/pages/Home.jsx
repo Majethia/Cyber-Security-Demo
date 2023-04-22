@@ -18,7 +18,8 @@ const Home = ({ parentCallback }) => {
     return (
         <div className="mb-4 relative flex flex-col justify-center min-h-screen overflow-hidden">
             <div className='m-4 w-full p-6 m-auto bg-white rounded-md shadow-xl shadow-rose-600/40 ring ring-2 ring-purple-600 lg:max-w-xl'>
-            <h1 className='m-4 text-2xl'>Rules for Grand Finale</h1>
+            <h1 className='m-4 text-2xl'>Technovation Grand Finale</h1>
+            <h1 className='m-4 text-2xl'>Rules</h1>
             <p className='m-4'>
             Total 7 users 2 super users and 5 normal users.<br/>
             you are one of the 5 normal users.<br/>
