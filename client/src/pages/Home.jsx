@@ -30,10 +30,10 @@ const Home = ({ parentCallback }) => {
             Your goal is to get unauthorized access to other users data.<br/>
             <br/>
             Tasks:<br/>
-            Task 1: Get sensetive data of user with user id: 556533124<br/>
+            Task 1: Get sensitive data of user with user id: 556533124<br/>
             Task 2: Get password of the user with user id: 556533124<br/>
             Task 3: Get access to any users profile except the above user<br/>
-            Task 4: Get Access to a user with super user privilages<br/>
+            Task 4: Get Access to a user with super user privileges<br/>
             Task 5: Get Access to the 2nd super user profile<br/>
             <br/>
             Bonus Task: Reset the countdown clock on the website (this task is just for points, you dont get any extra time)<br/>

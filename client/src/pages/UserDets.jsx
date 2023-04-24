@@ -12,7 +12,7 @@ const UserDets = ({details}) => {
           <p className="text-muted m-2">username: {details.Data.username}</p>
           <p className="text-muted m-2">is_superuser: {details.Data.is_superuser}</p>
           <p className="text-muted m-2">account_no: {details.Data.account_no}</p>
-          <p className="text-muted m-2">sensetive_data: {details.Data.sensetive_data}</p>
+          <p className="text-muted m-2">sensitive_data: {details.Data.sensetive_data}</p>
         </div>
       </div>
     </div>
